@@ -1,0 +1,9 @@
+[submodule "ETAgent"]
+	path = ETAgent
+	url = https://github.com/Pritam27112004/ETAgent
+[submodule "Urban-Air-Intelligence"]
+	path = Urban-Air-Intelligence
+	url = https://github.com/Code-r4Life/Urban-Air-Intelligence
+[submodule "AQIApp"]
+	path = AQIApp
+	url = https://github.com/Nameless-Seeker/AQIApp
